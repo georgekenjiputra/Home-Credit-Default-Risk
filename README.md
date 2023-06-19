@@ -1,8 +1,10 @@
 # A Comparative Analysis: Machine Learning vs. Deep Learning Algorithms for Predicting Default Risk
 
+![Image](https://www.estudentloan.com/wp-content/uploads/2020/11/student-loan-deault-estudentloan.jpg)
+
 ## Introduction
 
-By: George Kenji Putra
+By: [George Kenji Putra](https://www.linkedin.com/in/georgekenjiputra/)
 
 From: HCK-005
 
